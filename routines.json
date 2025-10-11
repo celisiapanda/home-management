@@ -2,6 +2,7 @@
   "roof-cats": {
     "name": "Cats Maintenance",
     "description": "Cleaning, replenishing food, water and litter for the cats on the roof.",
+    "interval": 2.5,
     "times": [
       {
         "date": "2025-10-07T21:00:00.000Z",
