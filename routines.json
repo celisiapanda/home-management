@@ -39,13 +39,18 @@
   "car-accent": {
     "name": "Accent Maintenance",
     "description": "Primarily washing and cleaning the Hyundai Accent.",
-    "interval": 30,
-    "times": []
+    "interval": 30.0,
+    "times": [
+      {
+        "date": "2025-12-07T16:23:00.000Z",
+        "actor": "Bedo"
+      }
+    ]
   },
   "clean": {
     "name": "Apartment Cleaning",
     "description": "Deep cleaning all rooms of the apartment, at the very least the bathroom and kitchen.",
-    "interval": 14,
+    "interval": 14.0,
     "times": [
       {
         "date": "2025-10-07T22:24:00.000Z",
