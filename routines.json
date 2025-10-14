@@ -39,7 +39,8 @@
   "car-accent": {
     "name": "Accent Maintenance",
     "description": "Primarily washing and cleaning the Hyundai Accent.",
-    "interval": 30.0
+    "interval": 30.0,
+    "times": []
   },
   "clean": {
     "name": "Apartment Cleaning",
