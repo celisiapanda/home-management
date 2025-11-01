@@ -1,6 +1,1 @@
-{
-  "items": [],
-  "lastModifiedAt": "2025-10-22T20:54:17.045Z",
-  "lastModifiedBy": "Bedo",
-  "proneBeforeMonths": 6
-}
+{"items":[{"id":"6ecaa059-a0e7-4943-aaf1-24ec241cf56c","value":"Bread","fulfilled":0,"quantity":1,"location":"Fargany","priority":0,"createdAt":"","lastUpdatedAt":"2025-11-01T13:51:57.644Z"}],"lastModifiedAt":"2025-11-01T13:57:54.109Z","lastModifiedBy":"Bedo","proneBeforeMonths":6}
