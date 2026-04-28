@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "shop-moj2fw56-52nz1ala",
+    "value": "توست",
+    "quantity": 1,
+    "location": "شاهين",
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-04-28T20:15:44.250Z",
+    "lastUpdatedAt": "2026-04-28T20:15:44.250Z"
+  }
+]
