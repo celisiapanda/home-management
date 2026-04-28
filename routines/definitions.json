@@ -1,0 +1,12 @@
+{
+  "feed-male-cats": {
+    "name": "Feed Male Cats",
+    "description": "Change litter, replace water and add food.",
+    "interval": 3
+  },
+  "clean-blue-car": {
+    "name": "Clean the blue accent car.",
+    "description": "With water if possible.",
+    "interval": 14
+  }
+}
