@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "shop-moj2cux0-26631p7h",
+    "value": "تونة",
+    "quantity": 2,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-04-28T20:13:22.692Z",
+    "lastUpdatedAt": "2026-04-28T20:13:22.692Z"
+  }
+]
