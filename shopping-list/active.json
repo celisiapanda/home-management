@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "shop-moj2ly40-4xnsty8t",
+    "value": "حلاوة",
+    "quantity": 1,
+    "weight": 1,
+    "unit": "kg",
+    "location": "شاهين",
+    "priority": 1,
+    "fulfilled": 0,
+    "createdAt": "2026-04-28T20:20:26.736Z",
+    "lastUpdatedAt": "2026-04-28T20:20:26.736Z"
+  }
+]
