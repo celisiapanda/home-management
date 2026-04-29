@@ -45,5 +45,18 @@
     "createdAt": "2026-04-28T20:20:26.736Z",
     "lastUpdatedAt": "2026-04-28T20:33:01.873Z",
     "fulfilledAt": "2026-04-28T20:33:01.873Z"
+  },
+  {
+    "id": "shop-mojzcd9l-51k7bso0",
+    "value": "لوز",
+    "quantity": 1,
+    "weight": 250,
+    "unit": "mg",
+    "location": "الدوران",
+    "priority": 0,
+    "fulfilled": 1,
+    "createdAt": "2026-04-29T11:36:47.145Z",
+    "lastUpdatedAt": "2026-04-29T12:15:27.052Z",
+    "fulfilledAt": "2026-04-29T12:15:27.052Z"
   }
 ]
