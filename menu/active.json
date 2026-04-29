@@ -1,12 +1,12 @@
 {
   "meals": {
     "2026-04-29": {
-      "carbs": "ديتاليني",
-      "protein": "لحم",
-      "greens": "سلطة",
+      "carbs": "أرز أبيض",
+      "protein": "دجاج مشوي بالزيت",
+      "greens": "سوتيه",
       "order": 1,
-      "lastModifiedAt": "2026-04-28T21:31:50.422Z"
+      "lastModifiedAt": "2026-04-29T17:34:04.023Z"
     }
   },
-  "lastModifiedAt": "2026-04-28T21:31:50.422Z"
+  "lastModifiedAt": "2026-04-29T17:34:04.023Z"
 }
