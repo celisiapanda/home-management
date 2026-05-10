@@ -9,5 +9,25 @@
     "fulfilled": 0,
     "createdAt": "2026-05-10T20:21:47.006Z",
     "lastUpdatedAt": "2026-05-10T20:21:47.006Z"
+  },
+  {
+    "id": "shop-mp0824mp-veybf5ed",
+    "value": "زيت قلي",
+    "quantity": 1,
+    "weight": 1,
+    "unit": "l",
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-05-10T20:25:04.752Z",
+    "lastUpdatedAt": "2026-05-10T20:25:04.752Z"
+  },
+  {
+    "id": "shop-mp084zt4-1nzk6qvu",
+    "value": "شاي فتلة",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-05-10T20:27:18.472Z",
+    "lastUpdatedAt": "2026-05-10T20:27:18.472Z"
   }
 ]
