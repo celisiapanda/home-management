@@ -29,5 +29,16 @@
     "fulfilled": 0,
     "createdAt": "2026-05-10T20:27:18.472Z",
     "lastUpdatedAt": "2026-05-10T20:27:18.472Z"
+  },
+  {
+    "id": "shop-mp08fl39-6swf09yd",
+    "value": "أوكسي أوتوماتك",
+    "quantity": 1,
+    "weight": 3,
+    "unit": "kg",
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-05-10T20:35:32.613Z",
+    "lastUpdatedAt": "2026-05-10T20:36:46.518Z"
   }
 ]
