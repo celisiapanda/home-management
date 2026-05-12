@@ -73,5 +73,15 @@
     "createdAt": "2026-05-12T14:17:13.260Z",
     "lastUpdatedAt": "2026-05-12T22:26:45.554Z",
     "fulfilledAt": "2026-05-12T22:26:45.554Z"
+  },
+  {
+    "id": "shop-mp2pwmnu-1kzzbcoz",
+    "value": "شاي فتلة",
+    "quantity": 1,
+    "priority": 1,
+    "fulfilled": 1,
+    "createdAt": "2026-05-12T14:20:13.626Z",
+    "lastUpdatedAt": "2026-05-12T22:28:05.747Z",
+    "fulfilledAt": "2026-05-12T22:28:05.747Z"
   }
 ]
