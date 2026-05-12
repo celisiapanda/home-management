@@ -1,16 +1,5 @@
 [
   {
-    "id": "shop-mp07xw1q-gcwb6e48",
-    "value": "سكر",
-    "quantity": 1,
-    "weight": 1,
-    "unit": "kg",
-    "priority": 1,
-    "fulfilled": 0,
-    "createdAt": "2026-05-10T20:21:47.006Z",
-    "lastUpdatedAt": "2026-05-10T20:21:47.006Z"
-  },
-  {
     "id": "shop-mp0824mp-veybf5ed",
     "value": "زيت قلي",
     "quantity": 1,
