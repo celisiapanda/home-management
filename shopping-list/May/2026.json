@@ -63,5 +63,15 @@
     "createdAt": "2026-05-11T21:22:30.759Z",
     "lastUpdatedAt": "2026-05-12T22:25:31.884Z",
     "fulfilledAt": "2026-05-12T22:25:31.884Z"
+  },
+  {
+    "id": "shop-mp2psrho-cqugwt1g",
+    "value": "صابون سائل يدين",
+    "quantity": 1,
+    "priority": 1,
+    "fulfilled": 1,
+    "createdAt": "2026-05-12T14:17:13.260Z",
+    "lastUpdatedAt": "2026-05-12T22:26:45.554Z",
+    "fulfilledAt": "2026-05-12T22:26:45.554Z"
   }
 ]
