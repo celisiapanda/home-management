@@ -83,5 +83,15 @@
     "createdAt": "2026-05-12T14:20:13.626Z",
     "lastUpdatedAt": "2026-05-12T22:28:05.747Z",
     "fulfilledAt": "2026-05-12T22:28:05.747Z"
+  },
+  {
+    "id": "shop-mp2q7a76-o79mz8hi",
+    "value": "أكياس تلاجة ٢٠ سم",
+    "quantity": 1,
+    "priority": 1,
+    "fulfilled": 1,
+    "createdAt": "2026-05-12T14:28:30.690Z",
+    "lastUpdatedAt": "2026-05-13T02:26:12.643Z",
+    "fulfilledAt": "2026-05-13T02:26:12.643Z"
   }
 ]
