@@ -1,16 +1,5 @@
 [
   {
-    "id": "shop-mp0824mp-veybf5ed",
-    "value": "زيت قلي",
-    "quantity": 1,
-    "weight": 1,
-    "unit": "l",
-    "priority": 0,
-    "fulfilled": 0,
-    "createdAt": "2026-05-10T20:25:04.752Z",
-    "lastUpdatedAt": "2026-05-10T20:25:04.752Z"
-  },
-  {
     "id": "shop-mp2q4wu2-63j73tz1",
     "value": "جبن",
     "quantity": 2,

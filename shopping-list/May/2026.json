@@ -93,5 +93,17 @@
     "createdAt": "2026-05-12T14:28:30.690Z",
     "lastUpdatedAt": "2026-05-13T02:26:12.643Z",
     "fulfilledAt": "2026-05-13T02:26:12.643Z"
+  },
+  {
+    "id": "shop-mp0824mp-veybf5ed",
+    "value": "زيت قلي",
+    "quantity": 1,
+    "weight": 1,
+    "unit": "l",
+    "priority": 0,
+    "fulfilled": 1,
+    "createdAt": "2026-05-10T20:25:04.752Z",
+    "lastUpdatedAt": "2026-05-13T19:18:44.863Z",
+    "fulfilledAt": "2026-05-13T19:18:44.863Z"
   }
 ]
