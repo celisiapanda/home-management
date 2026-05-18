@@ -105,5 +105,15 @@
     "createdAt": "2026-05-10T20:25:04.752Z",
     "lastUpdatedAt": "2026-05-13T19:18:44.863Z",
     "fulfilledAt": "2026-05-13T19:18:44.863Z"
+  },
+  {
+    "id": "shop-mp2q4wu2-63j73tz1",
+    "value": "جبن",
+    "quantity": 2,
+    "priority": 1,
+    "fulfilled": 1,
+    "createdAt": "2026-05-12T14:26:40.058Z",
+    "lastUpdatedAt": "2026-05-18T11:44:30.268Z",
+    "fulfilledAt": "2026-05-18T11:44:30.268Z"
   }
 ]
