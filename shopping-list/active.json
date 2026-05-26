@@ -43,5 +43,14 @@
     "fulfilled": 0,
     "createdAt": "2026-05-26T19:06:33.717Z",
     "lastUpdatedAt": "2026-05-26T19:06:33.717Z"
+  },
+  {
+    "id": "shop-mpn4bz9e-zu3cv82j",
+    "value": "صابون يدين",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-05-26T20:59:27.938Z",
+    "lastUpdatedAt": "2026-05-26T20:59:27.938Z"
   }
 ]
