@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "shop-mq2p8ovw-yidbsr9l",
+    "value": "فوم حلاقة",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-06-06T18:41:19.100Z",
+    "lastUpdatedAt": "2026-06-06T18:41:19.100Z"
+  },
+  {
+    "id": "shop-mq2p95wv-xinwd9p5",
+    "value": "حلاوة",
+    "quantity": 1,
+    "weight": 1,
+    "unit": "kg",
+    "location": "الفرجانى",
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-06-06T18:41:41.167Z",
+    "lastUpdatedAt": "2026-06-06T18:41:41.167Z"
+  },
+  {
+    "id": "shop-mq2pacig-87iz3078",
+    "value": "لانشون للقطط (و لينا)",
+    "quantity": 1,
+    "weight": 258,
+    "unit": "mg",
+    "location": "الفرجانى",
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-06-06T18:42:36.376Z",
+    "lastUpdatedAt": "2026-06-06T18:42:36.376Z"
+  },
+  {
+    "id": "shop-mq2pakhi-r9fgr8of",
+    "value": "تونة قطع",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-06-06T18:42:46.710Z",
+    "lastUpdatedAt": "2026-06-06T18:42:46.710Z"
+  }
+]
