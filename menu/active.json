@@ -8,12 +8,12 @@
       "lastModifiedAt": "2026-04-29T17:34:04.023Z"
     },
     "2026-08-17": {
-      "carbs": "سباغيتي",
-      "protein": "تونة",
-      "greens": "شوربة",
+      "carbs": "options.carbs.سباغيتي",
+      "protein": "options.protein.تونة",
+      "greens": "سلطة",
       "order": 1,
-      "lastModifiedAt": "2026-08-17T08:12:15.806Z"
+      "lastModifiedAt": "2026-08-17T08:12:22.656Z"
     }
   },
-  "lastModifiedAt": "2026-08-17T08:12:15.806Z"
+  "lastModifiedAt": "2026-08-17T08:12:22.656Z"
 }
