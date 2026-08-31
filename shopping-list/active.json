@@ -3,19 +3,21 @@
     "id": "shop-mth63qvd-gxz4xmdh",
     "value": "سكر",
     "quantity": 1,
+    "location": "شاهين",
     "priority": 0,
     "fulfilled": 0,
     "createdAt": "2026-08-31T11:41:15.337Z",
-    "lastUpdatedAt": "2026-08-31T11:41:15.337Z"
+    "lastUpdatedAt": "2026-08-31T13:00:13.042Z"
   },
   {
     "id": "shop-mth644oi-41mv1rho",
     "value": "حلاوة",
     "quantity": 1,
+    "location": "شاهين",
     "priority": 0,
     "fulfilled": 0,
     "createdAt": "2026-08-31T11:41:33.234Z",
-    "lastUpdatedAt": "2026-08-31T11:41:33.234Z"
+    "lastUpdatedAt": "2026-08-31T13:00:30.895Z"
   },
   {
     "id": "shop-mth64nge-5t5h6829",
@@ -70,5 +72,15 @@
     "fulfilled": 0,
     "createdAt": "2026-08-31T12:56:01.910Z",
     "lastUpdatedAt": "2026-08-31T12:56:01.910Z"
+  },
+  {
+    "id": "shop-mth8wu4y-o365kf15",
+    "value": "علبة صغير قتيلو او دومتي ملح خفيف",
+    "quantity": 1,
+    "location": "شاهين",
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-08-31T12:59:51.826Z",
+    "lastUpdatedAt": "2026-08-31T12:59:51.826Z"
   }
 ]
