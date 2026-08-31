@@ -3,21 +3,19 @@
     "id": "shop-mth63qvd-gxz4xmdh",
     "value": "سكر",
     "quantity": 1,
-    "location": "شاهين",
-    "priority": 0,
+    "priority": 1,
     "fulfilled": 0,
     "createdAt": "2026-08-31T11:41:15.337Z",
-    "lastUpdatedAt": "2026-08-31T13:00:13.042Z"
+    "lastUpdatedAt": "2026-08-31T13:01:48.370Z"
   },
   {
     "id": "shop-mth644oi-41mv1rho",
     "value": "حلاوة",
     "quantity": 1,
-    "location": "شاهين",
-    "priority": 0,
+    "priority": 1,
     "fulfilled": 0,
     "createdAt": "2026-08-31T11:41:33.234Z",
-    "lastUpdatedAt": "2026-08-31T13:00:30.895Z"
+    "lastUpdatedAt": "2026-08-31T13:01:58.526Z"
   },
   {
     "id": "shop-mth64nge-5t5h6829",
