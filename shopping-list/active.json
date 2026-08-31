@@ -97,6 +97,16 @@
     "priority": 1,
     "fulfilled": 0,
     "createdAt": "2026-08-31T14:01:33.586Z",
-    "lastUpdatedAt": "2026-08-31T14:01:33.586Z"
+    "lastUpdatedAt": "2026-08-31T14:02:24.450Z"
+  },
+  {
+    "id": "shop-mthb68bg-n04a3jzn",
+    "value": "ربع فلمنك",
+    "quantity": 1,
+    "location": "شاهين",
+    "priority": 1,
+    "fulfilled": 0,
+    "createdAt": "2026-08-31T14:03:09.340Z",
+    "lastUpdatedAt": "2026-08-31T14:03:09.340Z"
   }
 ]
