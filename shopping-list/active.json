@@ -100,5 +100,14 @@
     "fulfilled": 0,
     "createdAt": "2026-08-31T14:03:09.340Z",
     "lastUpdatedAt": "2026-08-31T14:03:09.340Z"
+  },
+  {
+    "id": "shop-mthdpta5-wic5a0i0",
+    "value": "عيش كيزر",
+    "quantity": 4,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-08-31T15:14:22.205Z",
+    "lastUpdatedAt": "2026-08-31T15:14:22.205Z"
   }
 ]
