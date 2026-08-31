@@ -80,5 +80,23 @@
     "fulfilled": 0,
     "createdAt": "2026-08-31T12:59:51.826Z",
     "lastUpdatedAt": "2026-08-31T13:02:23.102Z"
+  },
+  {
+    "id": "shop-mthb2b8k-wgdj3ovu",
+    "value": "لبن",
+    "quantity": 1,
+    "priority": 1,
+    "fulfilled": 0,
+    "createdAt": "2026-08-31T14:00:06.499Z",
+    "lastUpdatedAt": "2026-08-31T14:00:06.499Z"
+  },
+  {
+    "id": "shop-mthb46fm-ibc2u7fr",
+    "value": "جبنة فامنك",
+    "quantity": 1,
+    "priority": 1,
+    "fulfilled": 0,
+    "createdAt": "2026-08-31T14:01:33.586Z",
+    "lastUpdatedAt": "2026-08-31T14:01:33.586Z"
   }
 ]
