@@ -1,14 +1,5 @@
 [
   {
-    "id": "shop-mth64nge-5t5h6829",
-    "value": "كلور ابيض",
-    "quantity": 1,
-    "priority": 0,
-    "fulfilled": 0,
-    "createdAt": "2026-08-31T11:41:57.566Z",
-    "lastUpdatedAt": "2026-08-31T11:41:57.566Z"
-  },
-  {
     "id": "shop-mth65hry-xq2n2706",
     "value": "⅛ بيكربونات",
     "quantity": 1,
@@ -45,21 +36,12 @@
     "lastUpdatedAt": "2026-08-31T12:55:47.030Z"
   },
   {
-    "id": "shop-mth8rwqf-y5ejzgej",
-    "value": "مناديل مطبخ",
+    "id": "shop-mtisgzoh-i2emjzo2",
+    "value": "مناديل للوجه/ للمطبخ",
     "quantity": 1,
     "priority": 0,
     "fulfilled": 0,
-    "createdAt": "2026-08-31T12:56:01.910Z",
-    "lastUpdatedAt": "2026-08-31T12:56:01.910Z"
-  },
-  {
-    "id": "shop-mthdpta5-wic5a0i0",
-    "value": "عيش كيزر",
-    "quantity": 4,
-    "priority": 0,
-    "fulfilled": 0,
-    "createdAt": "2026-08-31T15:14:22.205Z",
-    "lastUpdatedAt": "2026-08-31T15:14:22.205Z"
+    "createdAt": "2026-09-01T14:55:11.009Z",
+    "lastUpdatedAt": "2026-09-01T14:55:11.009Z"
   }
 ]

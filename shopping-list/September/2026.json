@@ -1,0 +1,32 @@
+[
+  {
+    "id": "shop-mthdpta5-wic5a0i0",
+    "value": "عيش كيزر",
+    "quantity": 4,
+    "priority": 0,
+    "fulfilled": 1,
+    "createdAt": "2026-08-31T15:14:22.205Z",
+    "lastUpdatedAt": "2026-09-01T14:52:55.656Z",
+    "fulfilledAt": "2026-09-01T14:52:55.656Z"
+  },
+  {
+    "id": "shop-mth8rwqf-y5ejzgej",
+    "value": "مناديل مطبخ",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 1,
+    "createdAt": "2026-08-31T12:56:01.910Z",
+    "lastUpdatedAt": "2026-09-01T14:53:02.291Z",
+    "fulfilledAt": "2026-09-01T14:53:02.291Z"
+  },
+  {
+    "id": "shop-mth64nge-5t5h6829",
+    "value": "كلور ابيض",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 1,
+    "createdAt": "2026-08-31T11:41:57.566Z",
+    "lastUpdatedAt": "2026-09-01T14:53:10.869Z",
+    "fulfilledAt": "2026-09-01T14:53:10.869Z"
+  }
+]
