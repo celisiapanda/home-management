@@ -1,47 +1,11 @@
 [
   {
-    "id": "shop-mtnfjzzd-7edpxdmy",
-    "value": "بيض",
-    "quantity": 1,
-    "priority": 0,
-    "fulfilled": 0,
-    "createdAt": "2026-09-04T20:52:27.241Z",
-    "lastUpdatedAt": "2026-09-04T20:52:27.241Z"
-  },
-  {
-    "id": "shop-mtpqaxft-4n2pmrz5",
-    "value": "جبن رومي/كيري/فلمنك",
-    "quantity": 1,
-    "priority": 0,
-    "fulfilled": 0,
-    "createdAt": "2026-09-06T11:28:52.169Z",
-    "lastUpdatedAt": "2026-09-06T11:28:52.169Z"
-  },
-  {
-    "id": "shop-mtpqbazr-usmt311i",
-    "value": "حلاوة",
-    "quantity": 1,
-    "priority": 0,
-    "fulfilled": 0,
-    "createdAt": "2026-09-06T11:29:09.735Z",
-    "lastUpdatedAt": "2026-09-06T11:29:09.735Z"
-  },
-  {
-    "id": "shop-mtpqbnzj-av66wdvx",
-    "value": "لبن",
-    "quantity": 1,
-    "priority": 0,
-    "fulfilled": 0,
-    "createdAt": "2026-09-06T11:29:26.575Z",
-    "lastUpdatedAt": "2026-09-06T11:29:26.575Z"
-  },
-  {
     "id": "shop-mtpqc2ix-8wbf480m",
     "value": "توست",
-    "quantity": 1,
+    "quantity": 0.5,
     "priority": 0,
     "fulfilled": 0,
     "createdAt": "2026-09-06T11:29:45.417Z",
-    "lastUpdatedAt": "2026-09-06T11:29:45.417Z"
+    "lastUpdatedAt": "2026-09-09T16:11:16.500Z"
   }
 ]
