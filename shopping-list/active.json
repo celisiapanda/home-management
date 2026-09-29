@@ -25,5 +25,23 @@
     "fulfilled": 0,
     "createdAt": "2026-09-29T22:09:41.954Z",
     "lastUpdatedAt": "2026-09-29T22:09:41.954Z"
+  },
+  {
+    "id": "shop-mun9lu6e-nzsfsbh5",
+    "value": "شاي",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-09-29T22:45:37.670Z",
+    "lastUpdatedAt": "2026-09-29T22:45:37.670Z"
+  },
+  {
+    "id": "shop-mun9mcch-9m2ai8fu",
+    "value": "صابونة وجه",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-09-29T22:46:01.217Z",
+    "lastUpdatedAt": "2026-09-29T22:46:01.217Z"
   }
 ]
