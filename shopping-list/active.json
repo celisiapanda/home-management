@@ -43,5 +43,14 @@
     "fulfilled": 0,
     "createdAt": "2026-09-29T22:46:01.217Z",
     "lastUpdatedAt": "2026-09-29T22:46:01.217Z"
+  },
+  {
+    "id": "shop-muokd0e2-cpvia9ow",
+    "value": "خل",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-09-30T20:34:27.770Z",
+    "lastUpdatedAt": "2026-09-30T20:34:27.770Z"
   }
 ]
