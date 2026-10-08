@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "shop-muzrr3me-qoggiahi",
+    "value": "سكر",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-10-08T16:46:50.390Z",
+    "lastUpdatedAt": "2026-10-08T16:46:50.390Z"
+  },
+  {
+    "id": "shop-muzrrvmh-jbiskoro",
+    "value": "مكرونة",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-10-08T16:47:26.681Z",
+    "lastUpdatedAt": "2026-10-08T16:47:26.681Z"
+  },
+  {
+    "id": "shop-muzrs5ui-ya1p4bxf",
+    "value": "لبن",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-10-08T16:47:39.930Z",
+    "lastUpdatedAt": "2026-10-08T16:47:39.930Z"
+  },
+  {
+    "id": "shop-muzrthml-6g937mh5",
+    "value": "عيش كيزر للبرجر",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 0,
+    "createdAt": "2026-10-08T16:48:41.853Z",
+    "lastUpdatedAt": "2026-10-08T16:48:41.853Z"
+  }
+]
