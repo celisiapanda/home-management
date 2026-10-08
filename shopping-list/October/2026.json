@@ -58,5 +58,25 @@
     "createdAt": "2026-09-30T20:34:27.770Z",
     "lastUpdatedAt": "2026-10-02T18:32:24.312Z",
     "fulfilledAt": "2026-10-02T18:32:24.312Z"
+  },
+  {
+    "id": "shop-mun885ie-emmfu0u0",
+    "value": "زيت قلي",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 1,
+    "createdAt": "2026-09-29T22:06:59.558Z",
+    "lastUpdatedAt": "2026-10-08T16:46:19.975Z",
+    "fulfilledAt": "2026-10-08T16:46:19.975Z"
+  },
+  {
+    "id": "shop-murasxnz-cfx4x9is",
+    "value": "صابون سائل يدين",
+    "quantity": 1,
+    "priority": 0,
+    "fulfilled": 1,
+    "createdAt": "2026-10-02T18:30:13.103Z",
+    "lastUpdatedAt": "2026-10-08T16:46:31.217Z",
+    "fulfilledAt": "2026-10-08T16:46:31.217Z"
   }
 ]
